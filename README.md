@@ -1,1 +1,1 @@
-# javaScript_Assignment-11
+# COMP 690, Assignment-11
